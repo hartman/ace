@@ -1,0 +1,9 @@
+{
+	/* env */
+	"es3": true,
+	"browser": true,
+
+	/* lax jshint conventions */
+	"multistr": true,
+	"laxbreak": true
+}
