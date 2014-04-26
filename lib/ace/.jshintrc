@@ -4,6 +4,27 @@
 	"browser": true,
 
 	/* lax jshint conventions */
+	"asi": true,
+	"boss": true,
+	"debug": true,
+	"eqnull": true,
+	"evil": true,
+	"expr": true,
+	"funcscope": true,
+	"iterator": true,
+	"lastsemic": true,
+	"laxbreak": true,
+	"laxcomma" : true,
+	"loopfunc": true,
+	"maxerr": true,
 	"multistr": true,
-	"laxbreak": true
+	"notypeof": true,
+	"proto": true,
+	"scripturl": true,
+	"smarttabs": true,
+	"shadow": true,
+	"sub": true,
+	"supernew": true,
+	"validthis": true,
+	"noyield": true
 }
