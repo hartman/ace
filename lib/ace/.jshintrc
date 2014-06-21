@@ -1,6 +1,6 @@
 {
 	/* env */
-	"es3": true,
+	"es3": false,
 	"browser": true,
 
 	/* lax jshint conventions */
